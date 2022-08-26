@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testgrapes/static/css/main.aaee291f.chunk.css",
+    "main.js": "/testgrapes/static/js/main.b196deb9.chunk.js",
+    "main.js.map": "/testgrapes/static/js/main.b196deb9.chunk.js.map",
+    "runtime-main.js": "/testgrapes/static/js/runtime-main.f9b12de1.js",
+    "runtime-main.js.map": "/testgrapes/static/js/runtime-main.f9b12de1.js.map",
+    "static/js/2.5cab2f2d.chunk.js": "/testgrapes/static/js/2.5cab2f2d.chunk.js",
+    "static/js/2.5cab2f2d.chunk.js.map": "/testgrapes/static/js/2.5cab2f2d.chunk.js.map",
+    "index.html": "/testgrapes/index.html",
+    "precache-manifest.113809950928f73643de66bc23010941.js": "/testgrapes/precache-manifest.113809950928f73643de66bc23010941.js",
+    "service-worker.js": "/testgrapes/service-worker.js",
+    "static/css/main.aaee291f.chunk.css.map": "/testgrapes/static/css/main.aaee291f.chunk.css.map",
+    "static/js/2.5cab2f2d.chunk.js.LICENSE.txt": "/testgrapes/static/js/2.5cab2f2d.chunk.js.LICENSE.txt",
+    "static/media/grapes.min.css": "/testgrapes/static/media/main-fonts.f7c56e52.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b12de1.js",
+    "static/js/2.5cab2f2d.chunk.js",
+    "static/css/main.aaee291f.chunk.css",
+    "static/js/main.b196deb9.chunk.js"
+  ]
+}
